@@ -2,8 +2,8 @@
 
 ## Pablo López Fernández
 
-- [PR0204](./pr0204.md)
+- [PR0204.md](./pr0204.md)
 
-- [PR0204](./pr0204.ipynb)
+- [PR0204.ipynb](./pr0204.ipynb)
 
 - [Atrás](../index.md)
